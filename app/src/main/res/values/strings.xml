@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PhotoForseTest</string>
+    <string name="temp_file_prefix">temp_image_file_</string>
+    <string name="temp_file_extension">.jpg</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="take_from_camera">Take photo from Camera</string>
+    <string name="upload">Upload!</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="permission_denied_text">Please allow the app to access your camera</string>
+    <string name="no_country_selected">No country selected</string>
+    <string name="ok">Ok</string>
+    <string name="stop_upload">Stop Upload</string>
+    <string name="upload_failed">Upload failed or aborted!</string>
+</resources>
